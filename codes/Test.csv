@@ -1,0 +1,7 @@
+Levels2,PSK,1000000,theoretical,simulated,approximate,-20:1:20
+Levels2,ASK,100000,theoretical,simulated,-1,-20:1:20
+Levels2,FSK,10000000,theoretical,simulated,approximate,-20:1:20
+Levels4,PSK,100000,theoretical,simulated,-1,-20:1:20
+Levels8,PSK,100000,theoretical,simulated,approximate,-20:1:20
+Levels16,PSK,100000,theoretical,-1,approximate,-20:1:20
+Levels32,PSK,100000,theoretical,-1,approximate,-20:1:20
